@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="儿童学习:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="儿童学习/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="儿童学习" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jsp-api" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.11" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.111" />
+          <element id="library" level="project" name="mysql" />
+          <element id="library" level="project" name="standard" />
+          <element id="library" level="project" name="jdbc" />
+          <element id="library" level="project" name="lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

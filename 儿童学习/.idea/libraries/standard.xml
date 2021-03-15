@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="standard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战/jstl.jar!/" />
+      <root url="file://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战/Library/src" />
+      <root url="file://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战" recursive="false" type="SOURCES" />
+  </library>
+</component>

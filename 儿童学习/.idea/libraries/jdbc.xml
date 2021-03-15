@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdbc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BaiduNetdiskDownload/JavaWeb入门到实战/Library/web/WEB-INF/lib/mysql-connector-java-8.0.11.jar!/com/mysql/cj/jdbc" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
